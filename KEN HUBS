@@ -1,0 +1,3 @@
+_G.EnterKey = "KEN X RELEASE" -- Key Here
+
+_G.KeyInput = "string"
